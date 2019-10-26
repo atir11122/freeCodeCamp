@@ -1,6 +1,6 @@
----
+----
 title: Implement Bubble Sort
----
+----
 ## Implement Bubble Sort
 
 ### Method:
